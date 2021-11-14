@@ -20,6 +20,7 @@ A sub-domain search tool integrated with many open source projects
 - [Unew](https://github.com/dwisiswant0/unew)
 - [Rush](https://github.com/shenwei356/rush)
 - [Jsubfinder](https://github.com/hiddengearz/jsubfinder)
+- [assetfinder](https://github.com/tomnomnom/assetfinder)
 
 
 原先的项目地址为 | The Old Repo Site:
